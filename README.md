@@ -27,31 +27,26 @@ Als Erstes habe ich heute mein Papierlayout der Einfachheit halber in die elektr
 
 ## 28.2
 
-- [ ] Block-Divs für alle Abschnitte erstellen 
-- [ ] Alles in einen Entwurf bringen und bereits damit arbeiten
-- [ ] LinkedIn-Profil erstellen / ausputzen
-- [ ] GitHub-Profil professionalisieren (`readme.md`)
-- [ ] Start-Seite: Was ist das dringendste AP?
+- [x] Block-Divs für alle Abschnitte erstellen 
+- [x] Alles in einen Entwurf bringen und bereits damit arbeiten
+- [x] LinkedIn-Profil erstellen / ausputzen
+- [x] GitHub-Profil professionalisieren (`readme.md`)
+- [x] Implementierung einer Audiovisualisierung im Hintergrund der Website
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Heute war ein produktiver Tag - zunächst einmal habe ich eine readme.md für mein GitHub-Profil erstellt und hübsch gestaltet. Der nächste Schritt war die Erstellung und Gestaltung eines [LinkedIn-Profils](https://www.linkedin.com/in/ihor-tienietilov), was ich ebenfalls erfolgreich und schnell erledigt habe. Als letztes habe ich meine Website für die weitere Befüllung mit Informationen vorbereitet und im Hintergrund eine Audio-Visualisierung implementiert.
 
 ## 7.3
 
-- [ ] 
-- [ ] CV-Seite erstellen
-- [ ] Start-Seite 1
-- [ ] Start-Seite 2
-- [ ] Rückmeldung geben.
+- [x] Ausfüllen jedes Blocks mit Informationen
+- [x] Abschluss der Implementierung der Audiovisualisierung
+- [x] Vorbereiten des Blocks mit cv
+- [x] Rückmeldung geben.
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+Ich hatte heute einen sehr produktiven Tag. Zunächst habe ich die Audiovisualisierung komplett neu gestaltet, damit sie wie ein Oszilloskop aussieht. Als nächstes habe ich begonnen, jeden Block (außer dem Lebenslauf) mit Informationen zu füllen, und dann habe ich mein LinkedIn-Profil überarbeitet.
 
 ## 14.3
 
-- [ ] 
+- [ ] Füllen Sie die restlichen Blöcke in ./projects aus
 - [ ] ...
 - [ ] ...
 - [ ] ...
